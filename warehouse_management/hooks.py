@@ -1,8 +1,8 @@
 app_name = "warehouse_management"
 app_title = "Warehouse Management"
 app_publisher = "gathee"
-app_description = "warehouse"
-app_email = "gnjakai@yahoo.com"
+app_description = "gathee"
+app_email = "gathee@gmail.com"
 app_license = "gpl-3.0"
 
 # Apps

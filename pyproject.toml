@@ -1,9 +1,9 @@
 [project]
 name = "warehouse_management"
 authors = [
-    { name = "gathee", email = "gnjakai@yahoo.com"}
+    { name = "gathee", email = "gathee@gmail.com"}
 ]
-description = "warehouse"
+description = "gathee"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
