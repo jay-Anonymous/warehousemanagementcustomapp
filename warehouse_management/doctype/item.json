@@ -1,0 +1,28 @@
+{
+    "doctype": "Item",
+    "fields": [
+        {
+            "fieldname": "item_name",
+            "fieldtype": "Data",
+            "label": "Item Name",
+            "required": 1
+        },
+        {
+            "fieldname": "stock_uom",
+            "fieldtype": "Data",
+            "label": "Stock UOM",
+            "required": 1
+        },
+        {
+            "fieldname": "item_group",
+            "fieldtype": "Link",
+            "label": "Item Group",
+            "options": "Item Group"
+        },
+        {
+            "fieldname": "description",
+            "fieldtype": "Text",
+            "label": "Description"
+        }
+    ]
+}

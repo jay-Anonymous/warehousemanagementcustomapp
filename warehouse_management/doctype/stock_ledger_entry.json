@@ -1,0 +1,30 @@
+{
+    "doctype": "Stock Ledger Entry",
+    "fields": [
+        {
+            "fieldname": "item_code",
+            "fieldtype": "Data",
+            "label": "Item Code",
+            "required": 1
+        },
+        {
+            "fieldname": "quantity",
+            "fieldtype": "Float",
+            "label": "Quantity",
+            "required": 1
+        },
+        {
+            "fieldname": "warehouse",
+            "fieldtype": "Link",
+            "label": "Warehouse",
+            "options": "Warehouse",
+            "required": 1
+        },
+        {
+            "fieldname": "transaction_date",
+            "fieldtype": "Date",
+            "label": "Transaction Date",
+            "required": 1
+        }
+    ]
+}
